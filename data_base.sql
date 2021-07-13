@@ -1,0 +1,1 @@
+create database db_meu_financeiro;
