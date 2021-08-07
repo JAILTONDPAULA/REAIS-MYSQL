@@ -1,1 +1,1 @@
-create database db_meu_financeiro;
+CREATE DATABASE DB_REAIS;
